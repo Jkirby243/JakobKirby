@@ -15,6 +15,6 @@ This repository is a collection of projects and assignments that I have worked o
 **Website Data Project Files**
 -These are files that are all for a website I made with a group of 5 other people. I was the main person who created and assisted with the PHP as I took on the task of being the memeber of the group who learned it. This assistance was in formatting sql to work better in php as well as protecting against sql injection and linking the sql database to the website. I also took what i learned from the php learning material I had to find out of class and find solutions to apply it to our current project and needs. The Powerpoint is also 
 
--The Report Documents are the 2 Report and breakdown documents we had to create for the project.
+- The Report Documents are the 2 Report and breakdown documents we had to create for the project.
 
--The finished Figi Hotel are all the php and necessary files to run the website. The site is not hosted and will require a local host and database, as we did not have time to be able to host the site.
+- The finished Figi Hotel are all the php and necessary files to run the website. The site is not hosted and will require a local host and database, as we did not have time to be able to host the site.
