@@ -1,0 +1,21 @@
+There are two modes to operating this a manual and a automated
+The diagnosis works perfectly in automated but the Ground truths do not like being loaded in in bulk and start to break so if you want to see the accuracy values outside of the report you will have to use manual
+
+The preprocessing cycle is currently turned off as it takes a long time and holds up the program. 
+To see the preprocessing cycle uncomment lines 30 - 77
+The code will work prefectly fine without these as the results of this process were saved so it would not need to run every single time.
+
+
+Automated
+All that is needed if the user to run the program and it will go through its inpaints and grounds thruths and do all of the itmes.
+To go to the next object just press a key
+
+Manual
+For manual mode a couple lines must be commented
+First comment these lines, 546 290 390. 
+And then 79 ti 98
+
+*ctrl + K then ctrl + C will comment out selected blocks of code
+
+All that is needed after is to just change the inpaint and ground thruth names at the top of the page and run
+If there are any errors most likely a images name is wrong.

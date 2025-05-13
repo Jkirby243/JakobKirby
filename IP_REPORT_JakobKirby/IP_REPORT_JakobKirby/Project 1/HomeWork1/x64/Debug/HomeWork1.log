@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\jkirby12\source\repos\Project 1\HomeWork1\main.cpp(204,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jkirby12\source\repos\Project 1\HomeWork1\main.cpp(205,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jkirby12\source\repos\Project 1\HomeWork1\main.cpp(338,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jkirby12\source\repos\Project 1\HomeWork1\main.cpp(339,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jkirby12\source\repos\Project 1\HomeWork1\main.cpp(340,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jkirby12\source\repos\Project 1\HomeWork1\main.cpp(341,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jkirby12\source\repos\Project 1\HomeWork1\main.cpp(385,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jkirby12\source\repos\Project 1\HomeWork1\main.cpp(386,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jkirby12\source\repos\Project 1\HomeWork1\main.cpp(387,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jkirby12\source\repos\Project 1\HomeWork1\main.cpp(388,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jkirby12\source\repos\Project 1\HomeWork1\main.cpp(435,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jkirby12\source\repos\Project 1\HomeWork1\main.cpp(444,109): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jkirby12\source\repos\Project 1\HomeWork1\main.cpp(449,108): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  HomeWork1.vcxproj -> C:\Users\jkirby12\source\repos\Project 1\x64\Debug\HomeWork1.exe
